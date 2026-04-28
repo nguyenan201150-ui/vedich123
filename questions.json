@@ -1,0 +1,35 @@
+{
+    "muc_10": [
+    { "q": "Bài thơ nào của nhà thơ Huy Cận được bắt đầu bằng nỗi buồn và kết thúc bằng nỗi nhớ?", "a": "tràng giang" },
+    { "q": "Các động vật nào sau đây không thuộc loài cá: cá sấu, cá mập, cá chim, hay cá voi?", "a": "cá sấu, cá voi" },
+    { "q": "Ai đã được công nhận Trạng nguyên sau khi làm bài 'Ngọc tỉnh liên phú'?", "a": "mạc đĩnh chi" },
+    { "q": "Truyền thuyết xưa kể rằng Ngọc Hoàng sai Rồng Mẹ mang theo một đàn Rồng Con xuống hạ giới giúp người Việt đánh giặc. Nơi Rồng Mẹ đáp xuống là Hạ Long, nơi Rồng con đáp xuống là Bái Tử Long và nơi đuôi đàn Rồng quẫy nước trắng xóa được gọi là gì?", "a": "bạch long vĩ" },
+    { "q": "Có 10 chiếc tất xanh và 10 chiếc tất đỏ ở trong hộp. Hỏi phải lấy ra ít nhất bao nhiêu chiếc tất để chắc chắn có một đôi tất cùng màu?", "a": "3" },
+    { "q": "Thiếc có mấy dạng thù hình?", "a": "2" },
+    { "q": "Chững xơ vữa động mạch do việc dư thừa chất nào gây ra?", "a": "Cholesterol" },
+    { "q": "Tuyến nội tiết nào giữ vai trò chỉ đạo hoạt động của hầu hết các tuyến nội tiết khác trong cơ thể?", "a": "Tuyến yên" },
+    { "q": "Who is the “King of Pop”?", "a": "Michael Jackson" },
+    { "q": "Cơ quan nào trong cơ thể người có khả năng tự tái tạo mạnh nhất?", "a": "gan" },
+    { "q": "Châu lục nào được con người khám phá ra muộn nhất thế giới?", "a": "châu nam cực" }
+
+  ],
+  "muc_20": [
+    { "q": "Một đoàn người cưỡi ngựa chạy ngang qua, người ta thấy có tất cả 6 cái đầu và 18 cái chân. Hỏi đoàn đó có tất cả bao nhiêu người, bao nhiêu con ngựa?", "a": "3 người, 3 ngựa" },
+    { "q": "Bộ tiểu thuyết lớn nhất lịch sử thế giới có tên là gì?", "a": "chiến tranh và hòa bình" },
+    { "q": "Cấu trúc địa hình nước ta gồm 2 hướng chính nào?", "a": "tây bắc,đông nam,vòng cung" },
+    { "q": "Khi vật chuyển động như thế nào thì vectơ gia tốc có gốc ở vật chuyển động, có phương và chiều trùng với phương và chiều của vectơ vận tốc và có độ dài tỉ lệ với độ lớn của gia tốc theo một tỉ xích nào đó?", "a": "nhanh dần đều" },
+    { "q": "Nếu viết ra giấy từ 1 đến 100 thì ta phải viết chữ số 9 bao nhiêu lần?", "a": "20" },
+    { "q": "Hiện tượng cực quang trên bầu trời xảy ra là do tác dụng của lực nào lên các hạt mang điện trong không khí?", "a": "lorenxo" },
+    { "q": "Hình lập phương có bao nhiêu mặt phẳng đối xứng?", "a": "9" },
+    { "q": "Lần thứ nhất bạn Dũng đổ đi 1/2 lượng nước trong bình. Lần thứ hai bạn ấy đổ đi 1/3 lượng nước còn lại trong bình. Lần thứ ba bạn ấy đổ đi 1/4 lượng nước còn lại. Lần thứ tư bạn ấy đổ đi 1/5 lượng nước còn lại và cứ tiếp tục như vậy. Hỏi sau bao nhiêu lần đổ thì lượng nước còn lại trong bình bằng đúng 1/10 lượng nước ban đầu?", "a": "9" },
+    { "q": "Trong giỏ có 100 quả trứng gà và trứng vịt, trong đó số trứng vịt chiếm 99%. Hỏi phải lấy bao nhiêu quả trứng vịt để trong giỏ số trứng vịt chiếm còn 98%?", "a": "50" }
+  ],
+  "muc_30": [
+    { "q": "Người ta đào 1 cái ao hình tròn có bán kính 10m trên 1 mảnh đất hình chữ nhật dài 30m, rộng 20m. Phần diện tích còn lại của mảnh đất bao quanh ao là bao nhiêu mét vuông?", "a": "286" },
+    { "q": "Một khối lập phương cạnh 3cm được ghép từ 27 khối lập phương cạnh 1cm (giống như khối lập phương rubik). Sau đó người ta tháo hết các khối lập phương cạnh 1cm ở góc đi. Hỏi khối mới được tạo thành có bao nhiêu mặt?", "a": "30" },
+    { "q": "Một số tự nhiên lẻ có hai chữ số và chia hết cho 5. Hiệu của nó và chữ số hàng chục của nó là 68. Số đó là số nào?", "a": "75" },
+    { "q": "Dũng và Huy mỗi người có một số tiền. Họ muốn mua một quyển sách toán. Mỗi người thiếu lần lượt là 52.000đ và 2.000đ nhưng khi góp chung tiền lại họ vẫn không thể mua được quyển sách đó. Hỏi giá của quyển sách đó bao nhiêu tiền, biết rằng giá của quyển sách tính chẵn theo nghìn đồng?", "a": "53000" },
+    { "q": "Số điện thoại ở 1 địa phương có 6 chữ số, trong đó các chữ số được chọn ở tập mười số(0,1,2,...,8,9).Hỏi có bao nhiêu số điện thoại mà các chữ số xếp theo thứ tự tăng?", "a": "210" },
+    { "q": "Tác giả của tác phẩm 'Lão Hạc' là ai?", "a": "nam cao" }
+  ]
+}

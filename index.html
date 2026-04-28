@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olympia - Về Đích</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="video-intro-container">
+        <video id="intro-video" playsinline>
+            <source src="video/intro.mp4" type="video/mp4">
+        </video>
+        <button id="skip-intro-btn">BỎ QUA INTRO</button>
+        <button id="manual-play-btn" class="hidden">CHẠM ĐỂ BẮT ĐẦU</button>
+    </div>
+
+    <div id="start-screen" class="screen hidden">
+        <div class="particles"></div> <div class="start-content">
+            <div class="logo-container">
+                <h1 class="game-title">ĐƯỜNG LÊN ĐỈNH</h1>
+                <h1 class="game-title">OLYMPIA</h1>
+            </div>
+            <p class="game-subtitle">PHẦN THI: VỀ ĐÍCH</p>
+            
+<div class="profile-actions" style="margin-top:20px; display:flex; gap:10px; flex-wrap:wrap;">
+    <button class="menu-btn" onclick="showPlayerProfile()">
+        HỒ SƠ NGƯỜI CHƠI
+    </button>
+
+    <button class="menu-btn" onclick="changePlayerAvatar()">
+        ĐỔI AVATAR
+    </button>
+</div>
+            
+            <div class="main-menu">
+                <button id="begin-btn" class="menu-btn primary-btn">BẮT ĐẦU TRÒ CHƠI</button>
+                <div class="sub-menu" style="display: flex; gap: 10px; margin-top: 10px;">
+                    <button class="menu-btn" onclick="toggleGuide()" style="flex: 1;">HƯỚNG DẪN</button>
+                    <button class="menu-btn" onclick="toggleSettings()" style="flex: 1;">CÀI ĐẶT</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="setup-screen" class="screen hidden">
+        <div class="game-container">
+            <h2 style="color: var(--primary);">THIẾT LẬP THÍ SINH</h2>
+            <div class="input-group" style="margin: 20px 0;">
+                <input type="text" id="player-name" placeholder="Nhập tên của bạn..." style="width: 100%;">
+            </div>
+            <button id="ready-btn" class="menu-btn primary-btn" style="width: 100%;">SẴN SÀNG</button>
+        </div>
+    </div>
+
+    <div id="game-container" class="hidden">
+        <header>
+            <div id="score">SCORE: 0</div>
+            <div class="timer-wrapper">
+                <div id="timer-seconds">00s</div>
+                <div class="timer-container">
+                    <div id="timer-bar"></div>
+                </div>
+            </div>
+        </header>
+        
+        <main>
+            <div id="question-box">
+                <p id="question-text">Vui lòng chọn gói câu hỏi để bắt đầu.</p>
+            </div>
+            
+            <div class="input-group">
+                <input type="text" id="answer-input" placeholder="Nhập đáp án tại đây..." autocomplete="off">
+                <button id="submit-btn">GỬI</button>
+            </div>
+        </main>
+
+        <footer>
+            <div class="controls">
+                <button class="pkg-btn" onclick="startPackage(40)">Gói 40</button>
+                <button class="pkg-btn" onclick="startPackage(60)">Gói 60</button>
+                <button class="pkg-btn" onclick="startPackage(80)">Gói 80</button>
+                <button id="star-hope-btn">Ngôi Sao Hy Vọng</button>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
